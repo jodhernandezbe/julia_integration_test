@@ -1,0 +1,20 @@
+name = "Integration Testing in Julia"
+
+version = "0.0.1"
+
+authors = ["Jose D. Hernandez-Betancur <jodhernandezbemj@gmail.com>"]
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+SQLCipher = "e3bbf2a3-a30c-4959-806c-295e8e13e4d8"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+EzXML = "8f5d6c58-4d21-5cfd-889c-e3ad7ee6a615"
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+DotEnv = "4dc1fcf4-5e3b-5448-94ab-0c38ec0385c1"
+DotMaps = "98454f44-f182-4945-8d34-ddde53e72162"
+
+[compat]
+julia = "1.9.1"
